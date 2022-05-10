@@ -1,0 +1,5 @@
+export {default as Header} from './Header/Header.jsx'
+export {default as Home} from './Home/Home.jsx'
+export {default as MovieDetails} from './MovieDetails/MovieDetails.jsx'
+export {default as PageNotFound} from './PageNotFound/PageNotFound.jsx'
+export {default as Footer} from './Footer/Footer.jsx'
